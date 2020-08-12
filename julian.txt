@@ -5,3 +5,4 @@ Git add filnavn --> git commit -m "Hva jeg har endret"  --> git push
 
 Git pull fungerer som en refresh knapp. 
 CD naviger    og .. betyr tilbake. Navn er en mappe. CD og navn __> dabgår vi inn i mappe. 
+Branch, en tidslinje på en mate lage et eget arbeid uten å ødelegge for andre. git 
