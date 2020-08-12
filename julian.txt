@@ -1,3 +1,4 @@
 Hallo
 Jeg er i timen. 
 
+Git add filnavn --> git commit -m "Hva jeg har endret"  --> git push
